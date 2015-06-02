@@ -1,0 +1,15 @@
+Common name	Scientific name	Home range	status
+Lowland Anoa	Bubalus depressicornis	Indonesia	E
+Pink Fairy Armadillo	Chlamyphorus truncatus	Argentina	E
+Mountain Anoa	Bubalus quarlesi	Indonesia	E
+Giant Sable Antelope	Hippotragus niger variani	Angola	E
+Argali	Ovis ammon	Eurasia	E
+Giant Armadillo	Priodontes maximus	South America	E
+Pink Fairy Armadillo	Chlamyphorus truncatus	Argentina	E
+African Wild Ass	Equus africanus	Somalia, Sudan, Ethiopia	E
+Pudú	Pudu pudu	Southern South America	E
+Eastern Cougar	Puma concolor couguar	Eastern North America	E
+Aye-aye	Daubentonia madagascariensis	Malagasy Republic (Madagascar)	E
+Babirusa	Babyrousa babyrussa	Indonesia	E
+Gelada	Theropithecus gelada	Ethiopia	T
+Western Barred Bandicoot	Perameles bougainville	Australia	E
